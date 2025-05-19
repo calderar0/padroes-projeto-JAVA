@@ -47,5 +47,7 @@ A seguir está a arquitetura geral com os padrões integrados:
 
 7. Atualize o diagrama UML com a adição do Observer
 
+![image](https://github.com/user-attachments/assets/3112edbb-4ae9-4ee0-b7a1-eaa4482186c0)
+
 
 
